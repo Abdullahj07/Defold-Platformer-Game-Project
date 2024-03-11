@@ -9,3 +9,11 @@ Here are some images from the proejct
 
 
 ![image](https://github.com/Abdullahj07/Defold-Platformer-Game-Project/assets/120344531/7f1e0ee5-3f89-4c29-83a7-f8b1d25e20d8)
+
+
+![image](https://github.com/Abdullahj07/Defold-Platformer-Game-Project/assets/120344531/28b28621-7f55-4dc3-a6f9-ce5dede3aa65)
+
+
+![image](https://github.com/Abdullahj07/Defold-Platformer-Game-Project/assets/120344531/ff5097a7-d40a-4dc3-9b1d-c7fb49ad9d67)
+
+
